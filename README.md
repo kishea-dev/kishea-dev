@@ -23,8 +23,8 @@
 - WhatsApp: +256 712 415 102
 - Twitter: [@kisheadev](https://twitter.com/kisheadev)
 - LinkedIn: [linkedin.com/in/moseskisya](https://linkedin.com/in/moseskisya)
-- Phone: +256 787 832 775
 
-☕ If you find my work helpful or want to support me, you can buy me a coffee! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8TO0UZ)
+☕ If you find my work helpful or want to support me, you can buy me a coffee!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8TO0UZ)
 
 🌟 Let's connect, collaborate, and together, we can create innovative solutions that make a positive impact on the world of technology!
