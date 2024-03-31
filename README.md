@@ -23,6 +23,7 @@ When the code editor is closed, you'll likely find me:
 - **LinkedIn**: [linkedin.com/in/moseskisya](https://linkedin.com/in/moseskisya)
 
 ### ☕ **Support My Work**
-If you appreciate my work or find it helpful, consider supporting me by buying me a coffee. [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8TO0UZ)
+If you appreciate my work or find it helpful, consider supporting me by buying me a coffee. <br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8TO0UZ)
 
 Let's connect and collaborate on projects that push the boundaries of what's possible in the tech world!
