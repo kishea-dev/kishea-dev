@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Moses Kisya" width="100"/>
+[![1.png](https://i.postimg.cc/1t7YcXbB/1.png)](https://postimg.cc/ph8ZPWW5)
 
 👋 **Hello, World!** I'm **Moses Kisya**, a passionate **Full Stack Developer** and **IT Consultant** with a rich background in software engineering, thanks to my degree from Makerere University (Class of 2014). My journey in tech is driven by a relentless pursuit of knowledge and the desire to make a positive impact through technology.
 
