@@ -3,7 +3,7 @@
 # 👋 Moses Kisya
 ### Full Stack Developer | IT Consultant | Founder, Kishea Technologies
 
-[![Website](https://img.shields.io/badge/🌐_Website-kisheatech.com-blue?style=for-the-badge)](https://www.kisheatech.com)
+[![Hotpass](https://img.shields.io/badge/🌐_Hotpass-hotpass.app-blue?style=for-the-badge)](https://hotpass.app)
 [![Email](https://img.shields.io/badge/📧_Email-kishea.dev@outlook.com-red?style=for-the-badge)](mailto:kishea.dev@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-+256_712_415_102-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256712415102)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moses_Kisya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moseskisya)
@@ -84,15 +84,12 @@
 
 ## 🎯 **Other Products**
 
-### 📱 **Cash Book** — *on Google Play*
+### 📱 **Cash Book** — *Android*
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.kishea.cashbook)
-[![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](https://play.google.com/store/apps/details?id=com.kishea.cashbook)
-[![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](https://play.google.com/store/apps/details?id=com.kishea.cashbook)
+[![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](#)
+[![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](#)
 
 A simple cash book for tracking personal income and expenses — transactions, categories, multiple accounts, and a running summary.
-
-**[Download on Google Play →](https://play.google.com/store/apps/details?id=com.kishea.cashbook)**
 
 ---
 
@@ -109,12 +106,10 @@ Matatu, Ludo, and Snakes & Ladders — built for familiar local play, and fully 
 
 ### 💰 **Fam Budget** — *envelope budgeting for families*
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.kisheatech.fam)
-[![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](https://play.google.com/store/apps/details?id=com.kisheatech.fam)
+[![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](#)
+[![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](#)
 
 Track income, manage expenses and build savings using envelope budgeting. Works offline, with support for local languages.
-
-**[Download on Google Play →](https://play.google.com/store/apps/details?id=com.kisheatech.fam)**
 
 ---
 
@@ -199,7 +194,7 @@ When I am not coding I am playing gospel piano 🎹 or gaming 🎮 — both feed
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+256_712_415_102-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256712415102)
 [![Email](https://img.shields.io/badge/Email-kishea.dev@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishea.dev@outlook.com)
-[![Website](https://img.shields.io/badge/Website-kisheatech.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kisheatech.com)
+[![Hotpass](https://img.shields.io/badge/Hotpass-hotpass.app-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hotpass.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moses_Kisya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moseskisya)
 [![Twitter](https://img.shields.io/badge/Twitter-@kisheadev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kisheadev)
