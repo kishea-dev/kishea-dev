@@ -84,15 +84,6 @@
 
 ## 🎯 **Other Products**
 
-### 📱 **Cash Book** — *Android*
-
-[![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](#)
-[![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](#)
-
-A simple cash book for tracking personal income and expenses — transactions, categories, multiple accounts, and a running summary.
-
----
-
 ### 🎲 **Piga** — *classic games, offline*
 
 [![Play](https://img.shields.io/badge/Play-piga.hotpass.app-brightgreen?style=flat-square)](https://piga.hotpass.app/)
@@ -104,12 +95,12 @@ Matatu, Ludo, and Snakes & Ladders — built for familiar local play, and fully 
 
 ---
 
-### 💰 **Fam Budget** — *envelope budgeting for families*
+### 📱 **Cash Book** — *Android, offline*
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](#)
 [![Tech](https://img.shields.io/badge/Tech-Flutter-blue?style=flat-square&logo=flutter)](#)
 
-Track income, manage expenses and build savings using envelope budgeting. Works offline, with support for local languages.
+A simple cash book for tracking personal income and expenses — transactions, categories, multiple accounts, and a running summary. Everything stays on the device; no account, no upload, no connection needed.
 
 ---
 
