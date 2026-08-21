@@ -82,6 +82,40 @@
 
 ---
 
+## 🏦 **Kova — SACCO & Community Savings Platform**
+
+<div align="center">
+
+### 💰 *Digital operations for SACCOs and savings cooperatives*
+
+[![Status](https://img.shields.io/badge/Status-Piloting-orange?style=for-the-badge)](mailto:kisheatech@gmail.com?subject=Kova%20inquiry)
+
+</div>
+
+**Kova** brings member savings, group (VSLA) management, emergency loans, and role-based staff access into one portal for SACCOs and community savings groups, with audit-ready reporting for compliance.
+
+### ✅ **What it does**
+
+- ✅ **Member accounts** — deposits, withdrawals, digital statements
+- ✅ **Group / VSLA management** — contribution cycles, social fund tracking, group statements
+- ✅ **Emergency loans** — eligibility, disbursement, and repayment tracking
+- ✅ **Role-based access** — directors, officers, and staff each see only what their role permits
+- ✅ **Audit-ready reporting** — compliance reporting stays current, not rebuilt at year-end
+
+### 🛠️ **Built with**
+
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<div align="center">
+
+[![Ask about Kova](https://img.shields.io/badge/📧_ASK_ABOUT_KOVA-kisheatech@gmail.com-blue?style=for-the-badge)](mailto:kisheatech@gmail.com?subject=Kova%20inquiry)
+
+</div>
+
+---
+
 ## 🎯 **Other Products**
 
 ### 🎲 **Piga** — *classic games, offline*
